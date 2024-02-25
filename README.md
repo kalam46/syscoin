@@ -1,0 +1,2 @@
+# syscoin
+syscoin dao
